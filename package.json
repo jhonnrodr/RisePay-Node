@@ -24,7 +24,7 @@
     "keywords": ["package", "dependency", "autoload", "wrapper","php","library","risepay"],
     "repository" : {
         "type": "git",
-        "url": "https://github.com/jhonn921007/RisePay-NodeJS.git"
+        "url": "https://github.com/jhonn921007/RisePay-Node.git"
     },
     "dependencies": {
         "https": "*",
