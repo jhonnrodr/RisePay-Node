@@ -1,0 +1,38 @@
+{
+	"name": "Risepay",
+	"version": "1.0",
+	"description": "Simple Risepay Payment API wrapper, A Node.js module for interacting with the RisePay API",
+	"main": "lib/index.js",
+	"homepage": "http://www.risepay.com/",
+	"type": "library",
+	"author": [
+        {
+            "name": "Jhonnatan Rodriguez"        
+        },
+        {
+            "name": "Francisco Perez"    
+        },
+        {
+            "name": "Alexander Butenko"
+            
+        },
+        {
+            "name": "Kamel Bacha"
+        }
+
+    ],
+    "keywords": ["package", "dependency", "autoload", "wrapper","php","library","risepay"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/jhonn921007/RisePay-NodeJS.git"
+    },
+    "dependencies": {
+        "https": "*",
+        "url": "*",
+        "querystring": "*",
+        "request": "*",
+        "xml2json": "*",
+        
+    },
+    "engines": { "node": "*" }
+}
