@@ -25,7 +25,7 @@ NPM install
 
 Require RisePay
 	
-	var Risepay = require('../lib/risepay');
+	var Risepay = require('risepay');
 
 	Risepay.connect({
 			username: "gatewayApiUser",

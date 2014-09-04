@@ -1,7 +1,7 @@
 
 
 {
-    "name": "Risepay",
+    "name": "risepay",
     "version": "0.1.0",
     "description": "Simple Risepay Payment API wrapper, A Node.js module for interacting with the RisePay API",
     "preferGlobal": "true",
@@ -14,9 +14,6 @@
         "url": "https://github.com/jhonn921007/RisePay-Node.git"
     },
      "dependencies": {
-        "https": "*",
-        "url": "*",
-        "querystring": "*",
         "request": "*",
         "xml2json": "*"
 
