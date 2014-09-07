@@ -23,7 +23,7 @@ module.exports = function(app){
 									Customer: "JR"
 									}, function(resp){
 											
-											if(resp.RespMSG == "Approved"){
+											if(resp.Approved){
 												console.log("Approved. Transaction ID = " + resp.PNRef);
 												console.log("AuthCode = " + resp.AuthCode)
 											}else{
