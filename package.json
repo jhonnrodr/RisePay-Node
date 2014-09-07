@@ -2,7 +2,7 @@
 
 {
     "name": "risepay",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Simple Risepay Payment API wrapper, A Node.js module for interacting with the RisePay API",
     "preferGlobal": "true",
     "main": "lib/index.js",
